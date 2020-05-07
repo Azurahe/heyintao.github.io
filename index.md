@@ -44,7 +44,7 @@ Computer Architecture, Deep Learning, In-Memory Computing
 
 * Postal Address: No.6 Kexueyuan South Road Zhongguancun,Haidian District Beijing,China 100190
 
-[zhihu](https://www.zhihu.com/people/he-jie-7-55) and [linkedin](https://www.linkedin.com/in/yintao-he-6b3637159/?originalSubdomain)
+* Social Media: [zhihu](https://www.zhihu.com/people/he-jie-7-55) and [linkedin](https://www.linkedin.com/in/yintao-he-6b3637159/?originalSubdomain)
 
 ---
 
