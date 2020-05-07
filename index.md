@@ -16,7 +16,7 @@ In-Memory Computing, Deep Learning, Computer Architecture
 ## Education
 * Sep. 2019 - Present: **ICT, CAS**
 
-   Ph.D Student in Computer Systems and Architecure
+   PhD Student in Computer Systems and Architecure
 
 
 * Sep. 2015 - Jun. 2019: **Nankai University**
