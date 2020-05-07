@@ -14,7 +14,7 @@ Hi! I am a Ph.D Student of B.E. Computer Science at State Key Laboratory of Comp
 Computer Architecture, Deep Learning, In-Memory Computing
 
 ## Education
-* Sep. 2019 - Present: **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**
+* Sep. 2019 - Present: **ICT, CAS**
 
    Ph.D Student in Computer Systems and Architecure
 
