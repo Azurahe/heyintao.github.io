@@ -8,8 +8,6 @@ layout: default
 
 Hi! I am a Ph.D Student of B.E. Computer Science at State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences, Beijing.
 
-[zhihu](https://www.zhihu.com/people/he-jie-7-55) and [Linkedin](https://www.linkedin.com/in/yintao-he-6b3637159/?originalSubdomain)
-
 
 ## Research Interest
 
@@ -34,12 +32,19 @@ Computer Architecture, Deep Learning, In-Memory Computing
 ## Honors and Awards
 
 
-* 2019 | Outstanding Graduation Thesis (Top 5 in the department)
-* 2018 | The First Prize Scholarship 
-* 2018 | NKU Merit Student
-* 2017 | Gongneng Scholarship
-* 2016 | NKU Excellent Student Cadre
+* 2019: Outstanding Graduation Thesis (Top 5 in the department)
+* 2018: The First Prize Scholarship 
+* 2018: NKU Merit Student
+* 2017: Gongneng Scholarship
+* 2016: NKU Excellent Student Cadre
 
+## Contact Me
+
+* Email: [heyintao19z@ict.ac.cn](mailto:heyintao19z@ict.ac.cn)
+
+* Postal Address: No.6 Kexueyuan South Road Zhongguancun,Haidian District Beijing,China 100190
+
+[zhihu](https://www.zhihu.com/people/he-jie-7-55) and [linkedin](https://www.linkedin.com/in/yintao-he-6b3637159/?originalSubdomain)
 
 ---
 
