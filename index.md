@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="yintao.jpg">
 
-Hi! I am Yintao He (何银涛), a first year Ph.D Student of Computer Architecture at State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences, Beijing. Recently, I am focused on ReRAM-based deep learning accelerator design.
+Hi! I am Yintao He (何银涛), a first year Ph.D Student in State Key Laboratory of Computer Architecture, at ICT, CAS. Recently, I am focused on ReRAM-based deep learning accelerator design.
 
 
 ## Research Interest
