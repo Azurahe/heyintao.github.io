@@ -6,40 +6,41 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am a Ph.D Student of B.E. Computer Science at State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences, Beijing.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+[zhihu](https://www.zhihu.com/people/he-jie-7-55) and [Linkedin](https://www.linkedin.com/in/yintao-he-6b3637159/?originalSubdomain)
+
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Computer Architecture, Deep Learning, In-Memory Computing
+
+## Education
+* Sep. 2019 - Present: **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**
+
+   Ph.D Student in Computer Systems and Architecure
+
+
+* Sep. 2015 - Jun. 2019: **Nankai University**
+
+   B.E. in Electonic Science and Techonology
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+- **[DAC'20] Yintao He**, Ying Wang, Xiandong Zhao, Huawei Li, Xiaowei Li, “Towards State-Aware Computation in ReRAM Neural Networks,” to appear in IEEE/ACM Proceedings of Design, Automation Conference, 2020.(CCF-A)
 
-## Typography
+- **[ICCAD'19] Yintao He**, Ying Wang, Yongchen Wang, Huawei Li, Xiaowei Li, “[An Agile Precision-Tunable CNN Accelerator based on ReRAM](https://ieeexplore.ieee.org/document/8942163),” in IEEE/ACM International Conference On Computer Aided Design, 2019.(CCF-B)
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+## Honors and Awards
 
-Here is a table
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+* 2019 | Outstanding Graduation Thesis (Top 5 in the department)
+* 2018 | The First Prize Scholarship 
+* 2018 | NKU Merit Student
+* 2017 | Gongneng Scholarship
+* 2016 | NKU Excellent Student Cadre
 
-Here is a horizontal rule
 
 ---
 
-Here is a blockquote
 
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
