@@ -33,6 +33,7 @@ In-Memory Computing, Deep Learning, Computer Architecture
 
 
 * 2019: Outstanding Graduation Thesis (Top 5 in the department)
+* 2019: NKU Merit Student
 * 2018: The First Prize Scholarship 
 * 2018: NKU Merit Student
 * 2017: Gongneng Scholarship
