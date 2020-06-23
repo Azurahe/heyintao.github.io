@@ -31,6 +31,7 @@ In-Memory Computing, Deep Learning, Computer Architecture
 
 ## Honors and Awards
 
+* 2020：UCAS Merit Student
 * 2020: DAC Young Student Fellow Award
 * 2019: Outstanding Graduation Thesis (Top 5 in the department)
 * 2019: NKU Merit Student
