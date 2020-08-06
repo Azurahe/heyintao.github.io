@@ -31,7 +31,7 @@ In-Memory Computing, Deep Learning, Energy-Efficient Accelerators
 
 ## Honors and Awards
 
-* 2020: Best Poster Award in Young Student Fellow Program at DAC 2020
+* 2020: Best Poster Award at DAC 2020 Young Fellow Program
 * 2020: UCAS Merit Student
 * 2020: DAC 2020 Young Fellow Member
 * 2019: Outstanding Graduation Thesis (Top 5 in the department)
