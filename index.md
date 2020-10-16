@@ -25,21 +25,17 @@ In-Memory Computing, Deep Learning, Energy-Efficient Accelerators
 
 ## Publications
 
-- **[DAC'20] Yintao He**, Ying Wang, Xiandong Zhao, Huawei Li, Xiaowei Li, “Towards State-Aware Computation in ReRAM Neural Networks,” in IEEE/ACM Proceedings of Design, Automation Conference, 2020.(CCF-A) [paper] [\[code\]](https://github.com/wangying-ict/BWN_Shift)
+- **[DAC'20] Yintao He**, Ying Wang, Xiandong Zhao, Huawei Li, Xiaowei Li, “Towards State-Aware Computation in ReRAM Neural Networks,” in IEEE/ACM Proceedings of Design, Automation Conference, 2020.(CCF-A) [\[paper\]](https://ieeexplore.ieee.org/document/9218729) [\[code\]](https://github.com/wangying-ict/BWN_Shift)
 
 - **[ICCAD'19] Yintao He**, Ying Wang, Yongchen Wang, Huawei Li, Xiaowei Li, “An Agile Precision-Tunable CNN Accelerator based on ReRAM,” in IEEE/ACM International Conference On Computer Aided Design, 2019.(CCF-B) [\[paper\]](https://ieeexplore.ieee.org/document/8942163)
 
 ## Honors and Awards
 
-* 2020: Best Poster Award at DAC 2020 Young Fellow Program
+* 2020: Best Poster Award at DAC 2020 Young Fellow Program (21/288)
 * 2020: UCAS Merit Student
 * 2020: DAC 2020 Young Fellow Member
 * 2019: Outstanding Graduation Thesis (Top 5 in the department)
-* 2019: NKU Merit Student
-* 2018: The First Prize Scholarship 
-* 2018: NKU Merit Student
-* 2017: Gongneng Scholarship
-* 2016: NKU Excellent Student Cadre
+
 
 ## Contact Me
 
