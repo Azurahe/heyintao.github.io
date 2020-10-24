@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="yintao.jpg">
 
-Hi! I am Yintao He (何银涛), a 2nd year Ph.D Student in State Key Laboratory of Computer Architecture, at Institute of Computing Technology, Chinese Academy of Sciences with Prof. Huawei Li and [Prof. Ying Wang][https://wangying-ict.github.io/]. Recently, I am focused on deep learning accelerator design based on ReRAM.
+Hi! I am Yintao He (何银涛), a 2nd year Ph.D Student in State Key Laboratory of Computer Architecture, at Institute of Computing Technology, Chinese Academy of Sciences with Prof. Huawei Li and [Prof. Ying Wang](https://wangying-ict.github.io/). Recently, I am focused on deep learning accelerator design based on ReRAM.
 
 
 ## Research Interest
