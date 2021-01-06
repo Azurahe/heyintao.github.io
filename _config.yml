@@ -19,7 +19,7 @@ footer_text: "Page design by Ankit Sultana"
 nav:
  #- name: "About"
   # link: "/researcher/"
- - name: "Resume"
+ - name: "Resume(out-of-date)"
    link: "cv_en_heyintao.pdf"
  #- name: "Contact"
   # link: "contact"
