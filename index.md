@@ -38,7 +38,7 @@ In-Memory Computing, Deep Learning, Energy-Efficient Accelerators
 
 ## Services
 
-TCAD Reviewer
+* TCAD Reviewer
 
 ## Contact Me
 
