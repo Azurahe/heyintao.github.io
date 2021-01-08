@@ -38,7 +38,7 @@ In-Memory Computing, Deep Learning, Energy-Efficient Accelerators
 
 ## Services
 
-* TCAD Reviewer
+* Reviewer of IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD)
 
 ## Contact Me
 
