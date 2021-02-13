@@ -25,6 +25,8 @@ In-Memory Computing, Deep Learning, Energy-Efficient Accelerators
 
 ## Publications
 
+- **[DAC'20] Yintao He**, Ying Wang, Cheng Liu, Huawei Li, Xiaowei Li, “TARe: Task-Adaptive in-situ ReRAM Computing for Graph Learning,” to appear in IEEE/ACM Proceedings of Design, Automation Conference, 2021.(CCF-A)
+
 - **[DAC'20] Yintao He**, Ying Wang, Xiandong Zhao, Huawei Li, Xiaowei Li, “Towards State-Aware Computation in ReRAM Neural Networks,” in IEEE/ACM Proceedings of Design, Automation Conference, 2020.(CCF-A) [\[paper\]](https://ieeexplore.ieee.org/document/9218729) [\[code\]](https://github.com/wangying-ict/BWN_Shift)
 
 - **[ICCAD'19] Yintao He**, Ying Wang, Yongchen Wang, Huawei Li, Xiaowei Li, “An Agile Precision-Tunable CNN Accelerator based on ReRAM,” in IEEE/ACM International Conference On Computer Aided Design, 2019.(CCF-B) [\[paper\]](https://ieeexplore.ieee.org/document/8942163)
