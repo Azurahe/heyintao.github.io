@@ -33,6 +33,8 @@ In-Memory Computing, Deep Learning, Energy-Efficient Accelerators
 
 ## Honors and Awards
 
+* 2021: UCAS Merit Student
+* 2020: 1st Prize in Academic Scholarship in University of Chinese Academy of Sciences
 * 2020: Best Poster Award at DAC 2020 Young Fellow Program (21/288)
 * 2020: UCAS Merit Student
 * 2020: DAC 2020 Young Fellow Member
@@ -48,7 +50,7 @@ In-Memory Computing, Deep Learning, Energy-Efficient Accelerators
 
 * Postal Address: No.6 Kexueyuan South Road Zhongguancun,Haidian District Beijing,China 100190
 
-* Social Media: [zhihu](https://www.zhihu.com/people/he-jie-7-55) and [linkedin](https://www.linkedin.com/in/yintao-he-6b3637159/?originalSubdomain)
+* Social Media: [zhihu](https://www.zhihu.com/people/he-jie-7-55)  [linkedin](https://www.linkedin.com/in/yintao-he-6b3637159/?originalSubdomain) and [Publons](https://publons.com/researcher/4530225/yintao-he/)
 
 ---
 
