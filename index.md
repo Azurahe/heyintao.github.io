@@ -46,10 +46,9 @@ In-Memory Computing, Deep Learning, Energy-Efficient Accelerators
 ## Contact Me
 
 * Email: [heyintao19z@ict.ac.cn](mailto:heyintao19z@ict.ac.cn)
-
 * Postal Address: No.6 Kexueyuan South Road Zhongguancun,Haidian District Beijing,China 100190
-
-* Know more about me: [Google scholar](https://scholar.google.com/citations?user=afVBxsQAAAAJ&hl=en&oi=ao)  [Publons](https://publons.com/researcher/4530225/yintao-he/)  [zhihu](https://www.zhihu.com/people/he-jie-7-55)  [linkedin](https://www.linkedin.com/in/yintao-he-6b3637159/?originalSubdomain) 
+* Know more about me: [Google scholar](https://scholar.google.com/citations?user=afVBxsQAAAAJ&hl=en&oi=ao)  [Publons](https://publons.com/researcher/4530225/yintao-he/) 
+ [zhihu](https://www.zhihu.com/people/he-jie-7-55)  [linkedin](https://www.linkedin.com/in/yintao-he-6b3637159/?originalSubdomain) 
 ---
 
 
