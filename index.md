@@ -8,6 +8,7 @@ layout: default
 
 Hi! I am Yintao He (何银涛), a 2nd year Ph.D Student in State Key Laboratory of Computer Architecture, at Institute of Computing Technology, Chinese Academy of Sciences with [Prof. Huawei Li](http://people.ucas.ac.cn/~lihuawei) and [Prof. Ying Wang](https://wangying-ict.github.io/). Recently, I am focused on deep learning accelerator design based on ReRAM.
 
+Know more about me: [Google scholar](https://scholar.google.com/citations?user=afVBxsQAAAAJ&hl=en&oi=ao)    [zhihu](https://www.zhihu.com/people/he-jie-7-55)    [linkedin](https://www.linkedin.com/in/yintao-he-6b3637159/?originalSubdomain) 
 
 ## Research Interest
 
@@ -47,8 +48,7 @@ In-Memory Computing, Deep Learning, Energy-Efficient Accelerators
 
 * Email: [heyintao19z@ict.ac.cn](mailto:heyintao19z@ict.ac.cn)
 * Postal Address: No.6 Kexueyuan South Road Zhongguancun,Haidian District Beijing,China 100190
-* Know more about me: [Google scholar](https://scholar.google.com/citations?user=afVBxsQAAAAJ&hl=en&oi=ao)  [Publons](https://publons.com/researcher/4530225/yintao-he/) 
- [zhihu](https://www.zhihu.com/people/he-jie-7-55)  [linkedin](https://www.linkedin.com/in/yintao-he-6b3637159/?originalSubdomain) 
+
 ---
 
 
