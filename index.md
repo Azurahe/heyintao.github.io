@@ -26,7 +26,7 @@ In-Memory Computing, Deep Learning, Energy-Efficient Accelerators
 
 ## Publications
 
-- **[TCAD] Yintao He**, Ying Wang, Huawei Li, Xiaowei Li, "Saving Energy of RRAM-based Neural Accelerator through State-Aware Computing," to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2021.(CCF-A) [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9508444)
+- **[TCAD] Yintao He**, Ying Wang, Huawei Li, Xiaowei Li, "Saving Energy of RRAM-based Neural Accelerator through State-Aware Computing," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2021.(CCF-A) [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9508444)
 - **[DAC'21] Yintao He**, Ying Wang, Cheng Liu, Huawei Li, Xiaowei Li, "TARe: Task-Adaptive in-situ ReRAM Computing for Graph Learning," to appear in IEEE/ACM Proceedings of Design, Automation Conference, 2021.(CCF-A, Acceptance Rate: 215/916 = 23.5%)
 - **[TCAD]** Ying Wang, **Yintao He**, Long Cheng, Huawei Li, Xiaowei Li, "A Fast Precision Tuning Solution for Always-On DNN Accelerators," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2021.(CCF-A) [\[paper\]](https://ieeexplore.ieee.org/document/9455397)
 - **[DAC'20] Yintao He**, Ying Wang, Xiandong Zhao, Huawei Li, Xiaowei Li, "Towards State-Aware Computation in ReRAM Neural Networks," in IEEE/ACM Proceedings of Design, Automation Conference, 2020.(CCF-A, Acceptance Rate: 228/991=23.0%) [\[paper\]](https://ieeexplore.ieee.org/document/9218729) [\[code\]](https://github.com/wangying-ict/BWN_Shift)
