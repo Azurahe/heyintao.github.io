@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="yintao.jpg">
 
-Hi! I am Yintao He (何银涛), a 2nd year Ph.D Student in State Key Laboratory of Computer Architecture, at Institute of Computing Technology, Chinese Academy of Sciences with [Prof. Huawei Li](http://people.ucas.ac.cn/~lihuawei) and [Prof. Ying Wang](https://wangying-ict.github.io/). Recently, I am focused on deep learning accelerator design based on ReRAM.
+Hi! I am Yintao He (何银涛), a 3rd year Ph.D Student in State Key Laboratory of Computer Architecture, at Institute of Computing Technology, Chinese Academy of Sciences with [Prof. Huawei Li](http://people.ucas.ac.cn/~lihuawei) and [Prof. Ying Wang](https://wangying-ict.github.io/). Recently, I am focused on deep learning accelerator design based on ReRAM.
 
 Know more about me: [Google scholar](https://scholar.google.com/citations?user=afVBxsQAAAAJ&hl=en&oi=ao)   [linkedin](https://www.linkedin.com/in/yintao-he-6b3637159/?originalSubdomain) 
 
@@ -34,9 +34,8 @@ In-Memory Computing, Deep Learning, Energy-Efficient Accelerators
 
 ## Honors and Awards
 
-* 2021: UCAS Merit Student
-* 2020: First Prize in Academic Scholarship in UCAS
-* 2020: UCAS Merit Student
+* 2020, 2021: First Prize in Academic Scholarship in UCAS
+* 2020, 2021: UCAS Merit Student
 * 2020: DAC Young Fellowship & Young Fellow Best Poster Award (21/288)
 * 2019: Outstanding Graduation Thesis (Top 5 in the department)
 
