@@ -26,6 +26,8 @@ In-Memory Computing, Deep Learning, Energy-Efficient Accelerators
 
 ## Publications
 
+- **[DAC'22] Yintao He**, Songyun Qu, Ying Wang, Bing Li, Huawei Li, Xiaowei Li, "InfoX: An Energy-Efficient ReRAM Accelerator Design with Information-Lossless Low-Bit ADCs," to appear in IEEE/ACM Proceedings of Design, Automation Conference, 2022.(CCF-A)
+- **[TC]** Wen Li, Ying Wang, Cheng Liu, **Yintao He**, Lian Liu, Huawei Li, Xiaowei Li, "On-line Fault Protection for ReRAM-based Neural Networks," to appear in IEEE Transactions on Computers, 2022.(CCF-A)
 - **[TCAD] Yintao He**, Ying Wang, Huawei Li, Xiaowei Li, "Saving Energy of RRAM-based Neural Accelerator through State-Aware Computing," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2021.(CCF-A) [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9508444)
 - **[DAC'21] Yintao He**, Ying Wang, Cheng Liu, Huawei Li, Xiaowei Li, "TARe: Task-Adaptive in-situ ReRAM Computing for Graph Learning," in IEEE/ACM Proceedings of Design, Automation Conference, 2021.(CCF-A, Acceptance Rate: 215/916 = 23.5%)[\[paper\]](https://ieeexplore.ieee.org/document/9586193)
 - **[TCAD]** Ying Wang, **Yintao He**, Long Cheng, Huawei Li, Xiaowei Li, "A Fast Precision Tuning Solution for Always-On DNN Accelerators," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2021.(CCF-A) [\[paper\]](https://ieeexplore.ieee.org/document/9455397)
