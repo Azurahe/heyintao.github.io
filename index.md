@@ -36,11 +36,12 @@ In-Memory Computing, Deep Learning, Energy-Efficient Accelerators
 
 ## Honors and Awards
 
-* 2021: Sugon Scholarship
-* 2020, 2021: First Prize in Academic Scholarship in UCAS
-* 2020, 2021: UCAS Merit Student
-* 2020: DAC Young Fellowship & Young Fellow Best Poster Award (21/288)
-* 2019: Outstanding Graduation Thesis (Top 5 in the department)
+* 2021 Sugon Scholarship
+* 2020, 2021 First Prize in Academic Scholarship in UCAS
+* 2020, 2021 UCAS Merit Student
+* 2020 DAC Young Fellow Best Poster Award
+* 2020 DAC Young Fellowship
+* 2019 Outstanding Graduation Thesis (Top 5 in the department)
 
 ## Services
 
