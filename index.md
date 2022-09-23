@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="yintao.jpg">
 
-Hi! I am Yintao He (何银涛), a 3rd year Ph.D Student in State Key Laboratory of Computer Architecture, at Institute of Computing Technology, Chinese Academy of Sciences with [Prof. Huawei Li](http://people.ucas.ac.cn/~lihuawei) and [Prof. Ying Wang](https://wangying-ict.github.io/). Recently, I am focused on deep learning accelerator design based on ReRAM.
+Hi! I am Yintao He (何银涛), a 4th year Ph.D Student in State Key Laboratory of Computer Architecture, at Institute of Computing Technology, Chinese Academy of Sciences with [Prof. Huawei Li](http://people.ucas.ac.cn/~lihuawei) and [Prof. Ying Wang](https://wangying-ict.github.io/). Recently, I am focused on deep learning accelerator design based on ReRAM.
 
 Know more about me: [Google scholar](https://scholar.google.com/citations?user=afVBxsQAAAAJ&hl=en&oi=ao)   [linkedin](https://www.linkedin.com/in/yintao-he-6b3637159/?originalSubdomain) 
 
@@ -26,7 +26,7 @@ In-Memory Computing, Deep Learning, Energy-Efficient Accelerators
 
 ## Publications
 
-- **[DAC'22] Yintao He**, Songyun Qu, Ying Wang, Bing Li, Huawei Li, Xiaowei Li, "InfoX: An Energy-Efficient ReRAM Accelerator Design with Information-Lossless Low-Bit ADCs," to appear in IEEE/ACM Proceedings of Design, Automation Conference, 2022.(CCF-A)
+- **[DAC'22] Yintao He**, Songyun Qu, Ying Wang, Bing Li, Huawei Li, Xiaowei Li, "InfoX: An Energy-Efficient ReRAM Accelerator Design with Information-Lossless Low-Bit ADCs," to appear in IEEE/ACM Proceedings of Design, Automation Conference, 2022.(CCF-A) [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3489517.3530396)
 - **[TC]** Wen Li, Ying Wang, Cheng Liu, **Yintao He**, Lian Liu, Huawei Li, Xiaowei Li, "On-line Fault Protection for ReRAM-based Neural Networks," in IEEE Transactions on Computers, 2022.(CCF-A) [\[paper\]](https://ieeexplore.ieee.org/document/9737421)
 - **[TCAD] Yintao He**, Ying Wang, Huawei Li, Xiaowei Li, "Saving Energy of RRAM-based Neural Accelerator through State-Aware Computing," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2021.(CCF-A) [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9508444)
 - **[DAC'21] Yintao He**, Ying Wang, Cheng Liu, Huawei Li, Xiaowei Li, "TARe: Task-Adaptive in-situ ReRAM Computing for Graph Learning," in IEEE/ACM Proceedings of Design, Automation Conference, 2021.(CCF-A, Acceptance Rate: 215/916 = 23.5%) [\[paper\]](https://ieeexplore.ieee.org/document/9586193)
