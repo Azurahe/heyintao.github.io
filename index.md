@@ -38,7 +38,7 @@ In-Memory Computing, Deep Learning, Energy-Efficient Accelerators
 ## Honors and Awards
 
 * 2022 National Scholarship
-* 2022 Director's Special Scholarship (Top 7 in the institute)
+* 2022 Director's Special Scholarship (7/1500)
 * 2021 Sugon Scholarship
 * 2020, 2021 First Prize in Academic Scholarship in UCAS
 * 2020, 2021 UCAS Merit Student
