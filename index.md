@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="yintao.jpg">
 
-Hi! I am Yintao He (何银涛), a 4th year Ph.D Student at Institute of Computing Technology, Chinese Academy of Sciences, advised by Prof. [Huawei Li](http://people.ucas.ac.cn/~lihuawei) and Prof. [Ying Wang](https://wangying-ict.github.io/). Currently, I am a visiting PhD student at ETH Zurich, working with Prof. [Onur Mutlu](https://people.inf.ethz.ch/omutlu/).
+Hi! I am Yintao He (何银涛), a 4th year Ph.D Student at University of Chinese Academy of Sciences, advised by Prof. [Huawei Li](http://people.ucas.ac.cn/~lihuawei) and Prof. [Ying Wang](https://wangying-ict.github.io/). Currently, I am a visiting PhD student at ETH Zurich, working with Prof. [Onur Mutlu](https://people.inf.ethz.ch/omutlu/).
 
 Know more about me: [Google scholar](https://scholar.google.com/citations?user=afVBxsQAAAAJ&hl=en&oi=ao)   [linkedin](https://www.linkedin.com/in/yintao-he-6b3637159/?originalSubdomain) 
 
@@ -15,7 +15,7 @@ Know more about me: [Google scholar](https://scholar.google.com/citations?user=a
 In-Memory Computing, Deep Learning, Energy-Efficient Accelerators
 
 ## Education
-* Sep. 2019 - Present: **ICT, CAS**
+* Sep. 2019 - Present: **University of Chinese Academy of Sciences**
 
    Ph.D Student in Computer Systems and Architecure
 
