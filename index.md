@@ -22,7 +22,7 @@ In-Memory Computing, Deep Learning, Energy-Efficient Accelerators
 
 * Sep. 2015 - Jun. 2019: **Nankai University**
 
-   B.E. in Electonic Science and Techonology
+   B.E. in Electrical Engineering
 
 ## Publications
 
