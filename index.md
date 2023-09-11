@@ -36,7 +36,6 @@ Know more about me: [Google scholar](https://scholar.google.com/citations?user=a
 
 * 2022 National Scholarship
 * 2022 Director's Special Scholarship (7/1500)
-* 2021 Sugon Scholarship
 * 2020, 2021 First Prize in Academic Scholarship in UCAS
 * 2020, 2021 UCAS Merit Student
 * 2020 DAC Young Fellow Best Poster Award
