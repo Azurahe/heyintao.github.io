@@ -23,7 +23,7 @@ Know more about me: [Google scholar](https://scholar.google.com/citations?user=a
 
 ## Publications
 
-- **[TCAD] Yintao He**, Bing Li, Ying Wang, Cheng Liu, Huawei Li, Xiaowei Li, "A Task-Adaptive in-situ ReRAM Computing for Graph Convolutional Networks", to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2024.(CCF-A)
+- **[TCAD] Yintao He**, Bing Li, Ying Wang, Cheng Liu, Huawei Li, Xiaowei Li, "A Task-Adaptive in-situ ReRAM Computing for Graph Convolutional Networks", to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2024.(CCF-A) [\[paper\]](https://ieeexplore.ieee.org/document/10463614)
 - **[DATE'24] Yintao He**, Shixin Zhao, Songyun Qu, Huawei Li, Xiaowei Li, Ying Wang, "Bit-Trimmer: Ineffectual Bit-operation Removal for CIM Architecture," to appear in Design, Automation and Test in Europe Conference, 2024.
 - **[DAC'22] Yintao He**, Songyun Qu, Ying Wang, Bing Li, Huawei Li, Xiaowei Li, "InfoX: An Energy-Efficient ReRAM Accelerator Design with Information-Lossless Low-Bit ADCs," in IEEE/ACM Proceedings of Design, Automation Conference, 2022.(CCF-A) [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3489517.3530396)
 - **[TCAD] Yintao He**, Ying Wang, Huawei Li, Xiaowei Li, "Saving Energy of RRAM-based Neural Accelerator through State-Aware Computing," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2021.(CCF-A) [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9508444)
