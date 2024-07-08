@@ -38,6 +38,7 @@ Know more about me: [Google scholar](https://scholar.google.com/citations?user=a
 
 ## Honors and Awards
 
+* 2024 CAS President Scholarship (Special Prize) (中科院院长特别奖, 1/1500)
 * 2022 National Scholarship
 * 2022 Director's Special Scholarship (7/1500)
 * 2020, 2021 First Prize in Academic Scholarship in UCAS
