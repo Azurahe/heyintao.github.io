@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="yintao.jpg">
 
-Hi! I am Yintao He (何银涛), a 4th year Ph.D Student at ICT, CAS, advised by Prof. [Huawei Li](http://people.ucas.ac.cn/~lihuawei) and Prof. [Ying Wang](https://wangying-ict.github.io/). Currently, I am a visiting PhD student at ETH Zurich, working with Prof. [Onur Mutlu](https://people.inf.ethz.ch/omutlu/).
+Hi! I am Yintao He (何银涛), a 6th year Ph.D Student at UCAS, advised by Prof. [Huawei Li](http://people.ucas.ac.cn/~lihuawei) and Prof. [Ying Wang](https://wangying-ict.github.io/). Currently, I am a visiting PhD student at ETH Zurich, working with Prof. [Onur Mutlu](https://people.inf.ethz.ch/omutlu/).
 
 Know more about me: [Google scholar](https://scholar.google.com/citations?user=afVBxsQAAAAJ&hl=en&oi=ao)   [linkedin](https://www.linkedin.com/in/yintao-he-6b3637159/?originalSubdomain) 
 
