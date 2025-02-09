@@ -49,12 +49,7 @@ Know more about me: [Google scholar](https://scholar.google.com/citations?user=a
 
 ## Services
 
-* Reviewer: IEEE Trans. CAD, ITC 2023, ITC 2024
-
-## Contact Me
-
-* Email: [heyintao19z@ict.ac.cn](mailto:heyintao19z@ict.ac.cn)
-* Postal Address: No.6 Kexueyuan South Road Zhongguancun,Haidian District Beijing,China 100190
+* Reviewer: IEEE Trans. CAD, Trans. PDS, ITC 2023, ITC 2024
 
 ---
 
